@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666933709534",
+    "firebase_url": "https://pradeep-8e26d.firebaseio.com",
+    "project_id": "pradeep-8e26d",
+    "storage_bucket": "pradeep-8e26d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666933709534:android:37df742957c9ffa21f904f",
+        "android_client_info": {
+          "package_name": "com.example.pradeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666933709534-mjtf07f52urcrk1o3qh3tun8vjp6dsek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpLr2cUEiaWzq1UJxA0Hj8l9Dsn2wdiPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666933709534-mjtf07f52urcrk1o3qh3tun8vjp6dsek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
